@@ -13,6 +13,9 @@ Authors and Universities
 Instructor - Zhe Yang (Vmware)
 
 Neha Ellur (Stony Brook University)
+
 Priyama Biswas (Arizona State University)
+
 Arpita Sheth (Stony Brook University)
+
 Jiaqi Mu (University of Illinois, Urbana Champaign)
